@@ -725,6 +725,7 @@ flex-shrink: 0;
     padding: 10px 13px;
     top: 10px;
     right: 10px;
+    overflow: hidden;
 }
 
 .footer{
@@ -777,3 +778,53 @@ flex-shrink: 0;
     gap: 10px;
 }
 
+.tag:hover{
+  background-color: orange;
+}
+
+.tag2:hover{
+  color: white;
+  background-color: black;
+}
+
+option{
+  border-radius: 10px;
+  outline: none;
+}
+
+.ri-twitter-fill:hover{
+  color: rgb(21, 220, 220);
+}
+
+.ri-facebook-box-fill:hover{
+  color: blue;
+}
+
+.ri-instagram-line:hover{
+  color: rgb(228, 44, 96);
+}
+
+.ri-pinterest-fill:hover{
+  color: red;
+}
+
+.p8:hover{
+  color: white;
+  background-color: rgb(255, 132, 0);
+}
+
+.search-box:hover{
+  border: 1.5px solid black;
+}
+
+.ri-poker-hearts-fill:hover{
+  color: red;
+}
+
+.ri-eye-fill:hover{
+  color: rgb(112, 210, 210);
+}
+
+.txt7:hover{
+  background-color: goldenrod;
+}
